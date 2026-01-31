@@ -90,13 +90,21 @@ Production ML
 ---
 
 ## GitHub Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaritmehta15&show_icons=true&hide_border=true&title_color=6366f1&icon_color=22c55e&text_color=c9d1d9&bg_color=0d1117" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aaritmehta15&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaritmehta15&hide_border=true&background=0d1117&ring=6366f1&fire=22c55e&currStreakLabel=6366f1" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=aaritmehta15&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
